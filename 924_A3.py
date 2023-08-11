@@ -9,7 +9,7 @@ for key in keys:
     sort_keys[key] = dict1[key]
 
 
-
+111
 avgs = []
 for values in sort_keys.values():
     average = sum(values) / len(values)
